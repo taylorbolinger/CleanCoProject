@@ -1,0 +1,1 @@
+This project contains 3 html files and 4 jpg images for a website advertising cleaning projects. Download all files. Click on homepage.html to view the homepage. Navigate through the menu options to view each page. To view source code, right click on an HTML and select Open With. Then select your chosen coding software (ie. Visual Studio Code).
